@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Description
+# Desc
 
 You may have heard of a roadbook being used by rally drivers in such events as the Dakar Rally. A roadbook is arranged in the form of a table. Each line describes a significant point on the route, for example, a crossroads, a fork, a curiosity to see or a dangerous point.
 
@@ -34,9 +34,9 @@ The functionality of Roadbook Recorder is based on atrificial intelligence, so t
 
 ## Our team
 
-| Name                  | Roles                             | Contact                          |
-|:----------------------|:----------------------------------|:---------------------------------|
-| Andrei David          | Infrastructure, Public Relations  | andrei.david0207@upb.ro          |
-| Ruxandra Grigore      | Android, Public Relations         | ruxandra.grigore@stud.acs.upb.ro |
-| Nicolae-Iulian Nitu   | Android, Public Relations         | nitu.nicolae.1098@gmail.com      |
-| Iulia-Ana Tanasescu   | Web, Public Relations             | iulia.tanasescu56@gmail.com      |
+| Name                     | Roles                                | Contact                          |
+|:-------------------------|:-------------------------------------|:---------------------------------|
+| Andrei David             | Infrastructure, Public Relations     | andrei.david0207@upb.ro          |
+| Ruxandra Grigore         | Android, Public Relations            | ruxandra.grigore@stud.acs.upb.ro |
+| Nicolae-Iulian Nitu      | Android, Public Relations            | nitu.nicolae.1098@gmail.com      |
+| Iulia-Ana Tanasescu      | Web, Public Relations                | iulia.tanasescu56@gmail.com      |
